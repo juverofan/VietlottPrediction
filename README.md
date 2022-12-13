@@ -1,5 +1,5 @@
 # Vietlott Prediction
-Công cụ dự đoán Vietlott Power 655 và Mega 645
+Công cụ dự đoán Vietlott Power 655 và Mega 645.
 
 Công cụ sử dụng trên Windows, bấm phím 1 để chọn dự đoán Power 655, phím 2 để dự đoán Mega 645.
 
