@@ -9,4 +9,6 @@ Công cụ sử dụng trên Windows, bấm phím 1 để chọn dự đoán Pow
                 DOGE: DP9KxGRiA4gYGnn8FdF6mBva6NxtQmPhEC
                 Paypal: https://paypal.me/topvl
 
-![frame](https://github.com/juverofan/VietlottPrediction/assets/49752458/8409bc3c-aa0b-405c-8c8d-b1ce9ee5b0b3|width=100)
+<div align="center">
+<img src="https://github.com/juverofan/VietlottPrediction/assets/49752458/8409bc3c-aa0b-405c-8c8d-b1ce9ee5b0b3" width="30%">
+</div>
