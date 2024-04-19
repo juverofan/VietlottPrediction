@@ -8,3 +8,5 @@ Công cụ sử dụng trên Windows, bấm phím 1 để chọn dự đoán Pow
                 ETH: 0xb6f5ed1e3b05f8837c444c22839e47c468dab818
                 DOGE: DP9KxGRiA4gYGnn8FdF6mBva6NxtQmPhEC
                 Paypal: https://paypal.me/topvl
+
+![frame](https://github.com/juverofan/VietlottPrediction/assets/49752458/8409bc3c-aa0b-405c-8c8d-b1ce9ee5b0b3|width=100)
