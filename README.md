@@ -10,5 +10,5 @@ Công cụ sử dụng trên Windows, bấm phím 1 để chọn dự đoán Pow
                 Paypal: https://paypal.me/topvl
 
 <div align="center">
-<img src="https://github.com/juverofan/VietlottPrediction/assets/49752458/8409bc3c-aa0b-405c-8c8d-b1ce9ee5b0b3" width="30%">
+<img src="https://github.com/user-attachments/assets/510c7fb4-3873-493f-ae2c-3a969e8c71dc" width="30%">
 </div>
