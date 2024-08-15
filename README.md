@@ -12,3 +12,5 @@ Công cụ sử dụng trên Windows, bấm phím 1 để chọn dự đoán Pow
 <div align="center">
 <img src="https://github.com/user-attachments/assets/510c7fb4-3873-493f-ae2c-3a969e8c71dc" width="30%">
 </div>
+
+<br>Code & demo: https://huggingface.co/spaces/BroTeoTM/VietlottPrediction
